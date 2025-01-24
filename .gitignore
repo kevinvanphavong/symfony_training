@@ -23,3 +23,6 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+/.idea/commandlinetools/Symfony_24_01_2025_04_58.xml
+/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd
+/.idea/.gitignore
